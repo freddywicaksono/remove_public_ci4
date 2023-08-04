@@ -1,4 +1,5 @@
-# Codeigniter 4 - Remove index.php nd public from CI-4 URL
+# Codeigniter 4 
+# Remove Port, index.php and public from URL
 Here is example URL in CI-4
 ```
 http://localhost/demo/public/
