@@ -3,8 +3,8 @@
 ### Remove Port, index.php and public from URL
 Here is example URL in CI-4
 ```
-http://localhost/demo/public/
-http://localhost/demo/public/index.php/students
+http://localhost:8080/demo/public/
+http://localhost:8080/demo/public/index.php/students
 ```
 You want to remove public from the URL and will be:
 ```
